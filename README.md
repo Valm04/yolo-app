@@ -1,17 +1,5 @@
-# yolo
+# YOLO - Aplicación de Detección de Objetos en Tiempo Real
 
-A new Flutter project.
+YOLO es una aplicación móvil desarrollada con Flutter que implementa detección de objetos en tiempo real mediante visión por computadora. El proyecto está enfocado en la accesibilidad, especialmente para personas con discapacidad visual, proporcionando información auditiva del entorno.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicación utiliza la cámara del dispositivo para identificar objetos y convertir los resultados en retroalimentación por voz, permitiendo al usuario interpretar su entorno de manera más sencilla.
